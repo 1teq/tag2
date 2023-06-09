@@ -4,6 +4,7 @@
 </p>
 
 
+
 ## Information
 Tag2 is a modern, simpler adaptation of EasyNick, now better and bigger.
 
