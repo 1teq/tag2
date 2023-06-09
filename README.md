@@ -1,7 +1,6 @@
 <p align="center">
-![image](https://github.com/1teq/tag2/assets/112202105/d0787a21-b283-4b18-81ac-37d88beb1f2b)
+![image](https://github.com/1teq/tag2/assets/112202105/06c003d9-9f9e-4821-9454-26219eaf50ec)
 </p>
 
-  <p style="text-align: center;">
-  # Tag2
-</p>
+## Information
+Tag2 is a modern, simpler adaptation of EasyNick, now better and bigger.
