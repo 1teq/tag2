@@ -1,5 +1,7 @@
+<p align="center">
+![image](https://github.com/1teq/tag2/assets/112202105/d0787a21-b283-4b18-81ac-37d88beb1f2b)
+</p>
 
-![image](https://github.com/1teq/tag2/assets/112202105/cef7416b-8f70-4b65-9765-f7ac85db3f21)
   <p style="text-align: center;">
   # Tag2
 </p>
