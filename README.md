@@ -1,7 +1,5 @@
 ![image](https://github.com/1teq/tag2/assets/112202105/bb6aeb7f-4fe8-4484-8835-0dc7ef851651)
-<p align="center">
-  ![GitHub all releases](https://img.shields.io/github/downloads/1teq/tag2/total?logo=GitHub)
-</p>
+![GitHub all releases](https://img.shields.io/github/downloads/1teq/tag2/total?logo=GitHub)
 
 
 
